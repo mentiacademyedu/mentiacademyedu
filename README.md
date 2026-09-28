@@ -12,7 +12,7 @@ I build learning platforms, open source tools, and games. I care most about maki
 
 - **[Kademiax](https://kademiax.com)**: an education platform with interactive lessons for primaria through EXANI-II.
   *Plataforma educativa con lecciones interactivas, desde primaria hasta EXANI-II.*
-- [bettercut](https://bettercut.dev/)**: a lightweight, open source video editor. No subscriptions, no watermarks, no locked features.
+- **[bettercut](https://bettercut.dev/)**: a lightweight, open source video editor. No subscriptions, no watermarks, no locked features.
   *Editor de video ligero y open source. Sin suscripciones, sin marcas de agua, gratis para siempre.*
 - **[Mejores Momios](https://mejoresmomios.com)**: odds comparison for Mexican sportsbooks. Compares the same bet across licensed casinos, finds arbitrage, and builds parlays.
   *Comparador de momios para casas de apuestas en México. Compara la misma apuesta entre casinos, encuentra arbitrajes y arma parlays.*
